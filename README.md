@@ -1,4 +1,4 @@
-#learing git and github with plp software development program
+#learning git and github with plp software development program
 
 name: michael katana
 email: mickeygkatana@gmail.com
